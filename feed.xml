@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monitoring Minutes</title>
+    <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+    <description>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations.</description>
+    <language>en</language>
+    <atom:link href="https://adentler1.github.io/MonitoringPodcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Alexander Dentler</itunes:author>
+    <itunes:summary>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Alexander Dentler</itunes:name>
+      <itunes:email>alex.dentler@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://adentler1.github.io/MonitoringPodcast/cover.png"/>
+    <image>
+      <url>https://adentler1.github.io/MonitoringPodcast/cover.png</url>
+      <title>Monitoring Minutes</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+    </image>
+    <itunes:category text="Business">
+      <itunes:category text="Economics"/>
+    </itunes:category>
+  </channel>
+</rss>
