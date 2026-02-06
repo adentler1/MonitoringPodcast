@@ -24,5 +24,7 @@
     <itunes:category text="Business">
       <itunes:category text="Economics"/>
     </itunes:category>
+    <lastBuildDate>Mon, 27 Jan 2026 12:00:00 +0000</lastBuildDate>
+    <!-- Episodes will be added here automatically -->
   </channel>
 </rss>

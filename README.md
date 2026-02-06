@@ -12,6 +12,8 @@ Monitoring Minutes is the audio companion to [Monitoring Monetary Policy in Mexi
 
 ## Subscribe
 
+- **Apple Podcasts**: [Subscribe](https://podcasts.apple.com/podcast/monitoring-minutes) *(pending)*
+- **Spotify**: [Subscribe](https://open.spotify.com/show/monitoring-minutes) *(pending)*
 - **RSS Feed**: [feed.xml](https://adentler1.github.io/MonitoringPodcast/feed.xml)
 
 ## How It Works
@@ -24,11 +26,19 @@ This podcast is fully automated:
 
 The entire pipeline runs daily on a Raspberry Pi 5.
 
+## Technical Details
+
+- **Audio format**: MP3, ~192kbps
+- **Duration**: ~2 minutes per episode
+- **Hosting**: GitHub Releases (audio files) + GitHub Pages (RSS feed)
+- **Source code**: [MonitoringMexico](https://github.com/adentler1/MonitoringMexico)
+
 ## Author
 
 **Alexander Dentler**
 
 - Website: [monitoring-monetary-policy-in-mexico.webflow.io](https://monitoring-monetary-policy-in-mexico.webflow.io/)
+- GitHub: [@adentler1](https://github.com/adentler1)
 
 ---
 
