@@ -1,15 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" ?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Monitoring Minutes</title>
     <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
-    <description>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations.</description>
+    <description>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</description>
     <language>en</language>
     <atom:link href="https://adentler1.github.io/MonitoringPodcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Alexander Dentler</itunes:author>
-    <itunes:summary>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations.</itunes:summary>
+    <itunes:summary>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
       <itunes:name>Alexander Dentler</itunes:name>
@@ -24,7 +22,16 @@
     <itunes:category text="Business">
       <itunes:category text="Economics"/>
     </itunes:category>
-    <lastBuildDate>Mon, 27 Jan 2026 12:00:00 +0000</lastBuildDate>
-    <!-- Episodes will be added here automatically -->
+    <lastBuildDate>Fri, 06 Feb 2026 14:09:51 +0100</lastBuildDate>
+    <item>
+      <title>February 06, 2026 - Alexander Dentler &amp; Jorge Martínez</title>
+      <description>Daily briefing on Mexican monetary policy for February 06, 2026. Host: Alexander Dentler. Analyst: Jorge Martínez. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 7 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-02-06/MonitoringMinutes_06_02_2026.mp3</guid>
+      <pubDate>Fri, 06 Feb 2026 14:09:49 +0100</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-02-06/MonitoringMinutes_06_02_2026.mp3" length="4614313" type="audio/mpeg"/>
+      <itunes:duration>3:12</itunes:duration>
+      <itunes:summary>Daily briefing on Mexican monetary policy for February 06, 2026. Host: Alexander Dentler. Analyst: Jorge Martínez. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 7 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
   </channel>
 </rss>
