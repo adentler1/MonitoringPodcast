@@ -5,13 +5,15 @@
     <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
     <description>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</description>
     <language>en</language>
+    <copyright>2026 Alexander Dentler</copyright>
     <atom:link href="https://adentler1.github.io/MonitoringPodcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Alexander Dentler</itunes:author>
     <itunes:summary>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Alexander Dentler</itunes:name>
-      <itunes:email>alex.dentler@gmail.com</itunes:email>
+      <itunes:email>monitoringmexico@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://adentler1.github.io/MonitoringPodcast/cover.png"/>
     <image>
@@ -19,16 +21,30 @@
       <title>Monitoring Minutes</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
     </image>
-    <itunes:category text="Business">
-      <itunes:category text="Economics"/>
+    <itunes:category text="News">
+      <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Fri, 06 Feb 2026 15:53:50 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 12:05:53 +0100</lastBuildDate>
+    <item>
+      <title>February 08, 2026 - Pablo Rivas &amp; Jorge Martínez</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Daily briefing on Mexican monetary policy for February 08, 2026. Host: Pablo Rivas. Analyst: Jorge Martínez. Topics covered: news roundup, economic data updates, and central bank calendar.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-02-08/MonitoringMinutes_08_02_2026.mp3</guid>
+      <pubDate>Sun, 08 Feb 2026 12:00:00 +0100</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-02-08/MonitoringMinutes_08_02_2026.mp3" length="4500000" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>3:00</itunes:duration>
+      <itunes:summary>Daily briefing on Mexican monetary policy for February 08, 2026. Host: Pablo Rivas. Analyst: Jorge Martínez. Topics covered: news roundup, economic data updates, and central bank calendar.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>February 06, 2026 - Alexander Dentler &amp; Jorge Martínez</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
       <description>Daily briefing on Mexican monetary policy for February 06, 2026. Host: Alexander Dentler. Analyst: Jorge Martínez. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 7 data topics.</description>
       <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-02-06/MonitoringMinutes_06_02_2026.mp3</guid>
       <pubDate>Fri, 06 Feb 2026 14:09:49 +0100</pubDate>
       <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-02-06/MonitoringMinutes_06_02_2026.mp3" length="4614313" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
       <itunes:duration>3:12</itunes:duration>
       <itunes:summary>Daily briefing on Mexican monetary policy for February 06, 2026. Host: Alexander Dentler. Analyst: Jorge Martínez. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 7 data topics.</itunes:summary>
       <itunes:explicit>no</itunes:explicit>
