@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Tue, 10 Feb 2026 16:16:48 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 06:06:33 +0100</lastBuildDate>
+    <item>
+      <title>February 11, 2026 - Alexander Dentler &amp; Pablo Rivas</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Daily briefing on Mexican monetary policy for February 11, 2026. Host: Alexander Dentler. Analyst: Pablo Rivas. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 5 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-02-11/MonitoringMinutes_11_02_2026.mp3</guid>
+      <pubDate>Wed, 11 Feb 2026 06:06:09 +0100</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-02-11/MonitoringMinutes_11_02_2026.mp3" length="3320938" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:18</itunes:duration>
+      <itunes:summary>Daily briefing on Mexican monetary policy for February 11, 2026. Host: Alexander Dentler. Analyst: Pablo Rivas. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 5 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>February 10, 2026 - Ignacio Crane &amp; Jorge Martínez</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
