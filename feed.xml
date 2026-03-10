@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Mon, 09 Mar 2026 05:46:47 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 05:56:18 +0100</lastBuildDate>
+    <item>
+      <title>March 10, 2026 - Alexander Dentler &amp; María López</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Daily briefing on Mexican monetary policy for March 10, 2026. Host: Alexander Dentler. Analyst: María López. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 6 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-03-10/MonitoringMinutes_10_03_2026.mp3</guid>
+      <pubDate>Tue, 10 Mar 2026 05:56:00 +0100</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-03-10/MonitoringMinutes_10_03_2026.mp3" length="2925967" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:01</itunes:duration>
+      <itunes:summary>Daily briefing on Mexican monetary policy for March 10, 2026. Host: Alexander Dentler. Analyst: María López. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 6 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>March 09, 2026 - Ignacio Crane &amp; María López</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
