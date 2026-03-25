@@ -3,12 +3,12 @@
   <channel>
     <title>Monitoring Minutes</title>
     <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
-    <description>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</description>
+    <description>A briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</description>
     <language>en</language>
     <atom:link href="https://adentler1.github.io/MonitoringPodcast/feed.xml" rel="self" type="application/rss+xml"/>
     <copyright>2026 Alexander Dentler</copyright>
     <itunes:author>Alexander Dentler</itunes:author>
-    <itunes:summary>A daily briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</itunes:summary>
+    <itunes:summary>A briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Mon, 23 Mar 2026 05:39:01 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 05:55:20 +0100</lastBuildDate>
+    <item>
+      <title>March 25, 2026 - Alexander Dentler &amp; Pablo Rivas</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Daily briefing on Mexican monetary policy for March 25, 2026. Host: Alexander Dentler. Analyst: Pablo Rivas. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 14 news items and 5 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-03-25/MonitoringMinutes_25_03_2026.mp3</guid>
+      <pubDate>Wed, 25 Mar 2026 05:54:59 +0100</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-03-25/MonitoringMinutes_25_03_2026.mp3" length="3549144" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:27</itunes:duration>
+      <itunes:summary>Daily briefing on Mexican monetary policy for March 25, 2026. Host: Alexander Dentler. Analyst: Pablo Rivas. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 14 news items and 5 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>March 23, 2026 - María López &amp; Alexander Dentler</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
