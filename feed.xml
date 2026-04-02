@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Wed, 01 Apr 2026 05:53:34 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 05:57:03 +0200</lastBuildDate>
+    <item>
+      <title>April 02, 2026 - Pablo Rivas &amp; Ignacio Crane</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Daily briefing on Mexican monetary policy for April 02, 2026. Host: Pablo Rivas. Analyst: Ignacio Crane. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 14 news items and 5 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-04-02/MonitoringMinutes_02_04_2026.mp3</guid>
+      <pubDate>Thu, 02 Apr 2026 05:56:45 +0200</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-04-02/MonitoringMinutes_02_04_2026.mp3" length="3023142" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:05</itunes:duration>
+      <itunes:summary>Daily briefing on Mexican monetary policy for April 02, 2026. Host: Pablo Rivas. Analyst: Ignacio Crane. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 14 news items and 5 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>April 01, 2026 - María López &amp; Pablo Rivas</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
