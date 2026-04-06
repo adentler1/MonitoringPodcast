@@ -1,19 +1,21 @@
 # Monitoring Minutes
 
-**A daily AI-generated podcast on Mexican monetary policy and macroeconomics.**
+**An AI-generated podcast on Mexican monetary policy and macroeconomics — new episodes whenever fresh data arrives.**
 
 ## About
 
-Monitoring Minutes is the audio companion to [Monitoring Monetary Policy in Mexico](https://monitoring-monetary-policy-in-mexico.webflow.io/). Each episode is a brief (~2 minute) daily briefing covering:
+Monitoring Minutes is the audio companion to [Monitoring Monetary Policy in Mexico](https://monitoring-monetary-policy-in-mexico.webflow.io/). Each episode is a brief (~2 minute) briefing covering:
 
-- **News roundup**: Key economic and policy developments from the past 24-48 hours
+- **News roundup**: Key economic and policy developments
 - **Data updates**: Analysis of fresh economic indicators (CPI, employment, GDP nowcast, etc.)
 - **Central bank calendar**: Upcoming monetary policy decisions from Banxico, the Fed, ECB, and more
 
+Episodes are published automatically when new economic data becomes available, rather than on a fixed daily schedule.
+
 ## Subscribe
 
-- **Apple Podcasts**: [Subscribe](https://podcasts.apple.com/podcast/monitoring-minutes) *(pending)*
-- **Spotify**: [Subscribe](https://open.spotify.com/show/monitoring-minutes) *(pending)*
+- **Apple Podcasts**: [Subscribe](https://podcasts.apple.com/de/podcast/monitoring-minutes/id1878643907)
+- **Spotify**: [Subscribe](https://open.spotify.com/show/3ojmjRyzNqdOmxxxb4RUL4)
 - **RSS Feed**: [feed.xml](https://adentler1.github.io/MonitoringPodcast/feed.xml)
 
 ## How It Works
@@ -24,7 +26,7 @@ This podcast is fully automated:
 3. **Audio synthesis**: Text-to-speech with OpenAI's voices
 4. **Publishing**: Automatic upload to GitHub Releases and RSS feed update
 
-The entire pipeline runs daily on a Raspberry Pi 5.
+The pipeline runs on a Raspberry Pi 5 and publishes new episodes whenever fresh data is detected.
 
 ## Technical Details
 
