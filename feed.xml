@@ -3,12 +3,12 @@
   <channel>
     <title>Monitoring Minutes</title>
     <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
-    <description>A briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</description>
+    <description>A briefing on Mexican monetary policy and macroeconomic developments, published whenever fresh data arrives. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</description>
     <language>en</language>
     <atom:link href="https://adentler1.github.io/MonitoringPodcast/feed.xml" rel="self" type="application/rss+xml"/>
     <copyright>2026 Alexander Dentler</copyright>
     <itunes:author>Alexander Dentler</itunes:author>
-    <itunes:summary>A briefing on Mexican monetary policy and macroeconomic developments. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</itunes:summary>
+    <itunes:summary>A briefing on Mexican monetary policy and macroeconomic developments, published whenever fresh data arrives. This AI-generated podcast transforms economic data into accessible insights, covering Banco de Mexico policy decisions, inflation trends, employment figures, and market expectations. Part of the Monitoring Monetary Policy in Mexico project, which demonstrates how automation and large language models can make specialized economic analysis more accessible and relevant.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Mon, 06 Apr 2026 05:46:22 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 05:55:42 +0200</lastBuildDate>
+    <item>
+      <title>April 07, 2026 - María López &amp; Alexander Dentler</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Briefing on Mexican monetary policy for April 07, 2026. Host: María López. Analyst: Alexander Dentler. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 14 news items and 5 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-04-07/MonitoringMinutes_07_04_2026.mp3</guid>
+      <pubDate>Tue, 07 Apr 2026 05:55:22 +0200</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-04-07/MonitoringMinutes_07_04_2026.mp3" length="3443191" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:23</itunes:duration>
+      <itunes:summary>Briefing on Mexican monetary policy for April 07, 2026. Host: María López. Analyst: Alexander Dentler. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 14 news items and 5 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>April 06, 2026 - Pablo Rivas &amp; Alexander Dentler</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
