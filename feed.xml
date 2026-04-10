@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Fri, 10 Apr 2026 06:15:26 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 06:18:02 +0200</lastBuildDate>
+    <item>
+      <title>Deep Dive: April 10, 2026 Banxico Minutes - Ignacio Crane &amp; Alexander Dentler</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>A detailed analysis of Banxico's monetary policy meeting minutes. Host: Ignacio Crane. Analyst: Alexander Dentler.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/minutes-2026-04-10/MinutesDeepDive_10_04_2026.mp3</guid>
+      <pubDate>Fri, 10 Apr 2026 06:17:27 +0200</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/minutes-2026-04-10/MinutesDeepDive_10_04_2026.mp3" length="6332752" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>4:23</itunes:duration>
+      <itunes:summary>A detailed analysis of Banxico's monetary policy meeting minutes. Host: Ignacio Crane. Analyst: Alexander Dentler.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>April 10, 2026 - María López &amp; Ignacio Crane</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
