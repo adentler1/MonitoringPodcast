@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Fri, 29 May 2026 06:48:31 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 06:21:48 +0200</lastBuildDate>
+    <item>
+      <title>May 30, 2026 - María López &amp; Alexander Dentler</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Briefing on Mexican monetary policy for May 30, 2026. Host: María López. Analyst: Alexander Dentler. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 2 news items and 5 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-05-30/MonitoringMinutes_30_05_2026.mp3</guid>
+      <pubDate>Sat, 30 May 2026 06:21:26 +0200</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-05-30/MonitoringMinutes_30_05_2026.mp3" length="3584880" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:29</itunes:duration>
+      <itunes:summary>Briefing on Mexican monetary policy for May 30, 2026. Host: María López. Analyst: Alexander Dentler. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 2 news items and 5 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>May 29, 2026 - Alexander Dentler &amp; María López</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
