@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Thu, 18 Jun 2026 06:12:14 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 06:14:22 +0200</lastBuildDate>
+    <item>
+      <title>June 19, 2026 - Ignacio Crane &amp; Pablo Rivas</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Briefing on Mexican monetary policy for June 19, 2026. Host: Ignacio Crane. Analyst: Pablo Rivas. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 1 news items and 6 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-06-19/MonitoringMinutes_19_06_2026.mp3</guid>
+      <pubDate>Fri, 19 Jun 2026 06:14:01 +0200</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-06-19/MonitoringMinutes_19_06_2026.mp3" length="3544129" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:27</itunes:duration>
+      <itunes:summary>Briefing on Mexican monetary policy for June 19, 2026. Host: Ignacio Crane. Analyst: Pablo Rivas. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 1 news items and 6 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>June 18, 2026 - Ignacio Crane &amp; Alexander Dentler</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
