@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Fri, 28 Aug 2026 07:52:40 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:28:09 +0200</lastBuildDate>
+    <item>
+      <title>September 01, 2026 - María López &amp; Pablo Rivas</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Briefing on Mexican monetary policy for September 01, 2026. Host: María López. Analyst: Pablo Rivas. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 8 news items and 4 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-09-01/MonitoringMinutes_01_09_2026.mp3</guid>
+      <pubDate>Tue, 01 Sep 2026 07:27:48 +0200</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-09-01/MonitoringMinutes_01_09_2026.mp3" length="3337865" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:19</itunes:duration>
+      <itunes:summary>Briefing on Mexican monetary policy for September 01, 2026. Host: María López. Analyst: Pablo Rivas. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 8 news items and 4 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>August 28, 2026 - Ignacio Crane &amp; Alexander Dentler</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
