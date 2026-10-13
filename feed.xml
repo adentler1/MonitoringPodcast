@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Fri, 09 Oct 2026 07:47:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:45:44 +0200</lastBuildDate>
+    <item>
+      <title>October 13, 2026 - Pablo Rivas &amp; Alexander Dentler</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Briefing on Mexican monetary policy for October 13, 2026. Host: Pablo Rivas. Analyst: Alexander Dentler. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 10 news items and 7 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-10-13/MonitoringMinutes_13_10_2026.mp3</guid>
+      <pubDate>Tue, 13 Oct 2026 07:45:22 +0200</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-10-13/MonitoringMinutes_13_10_2026.mp3" length="3616225" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:30</itunes:duration>
+      <itunes:summary>Briefing on Mexican monetary policy for October 13, 2026. Host: Pablo Rivas. Analyst: Alexander Dentler. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 10 news items and 7 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Deep Dive: October 09, 2026 Banxico Minutes - Ignacio Crane &amp; Alexander Dentler</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
