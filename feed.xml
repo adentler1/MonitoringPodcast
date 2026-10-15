@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Tue, 13 Oct 2026 07:45:44 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:54:39 +0200</lastBuildDate>
+    <item>
+      <title>October 15, 2026 - Alexander Dentler &amp; María López</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Briefing on Mexican monetary policy for October 15, 2026. Host: Alexander Dentler. Analyst: María López. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 4 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-10-15/MonitoringMinutes_15_10_2026.mp3</guid>
+      <pubDate>Thu, 15 Oct 2026 07:54:17 +0200</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-10-15/MonitoringMinutes_15_10_2026.mp3" length="3678919" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:33</itunes:duration>
+      <itunes:summary>Briefing on Mexican monetary policy for October 15, 2026. Host: Alexander Dentler. Analyst: María López. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 4 news items and 4 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>October 13, 2026 - Pablo Rivas &amp; Alexander Dentler</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
