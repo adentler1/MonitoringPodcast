@@ -7,7 +7,7 @@ X-WR-CALNAME:MonitoringMexico Podcast
 X-WR-CALDESC:Expected data releases and podcast triggers
 BEGIN:VEVENT
 UID:a6625130e3782c93@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:📈 CommodityPrices: Trade Balance
 DESCRIPTION:Trade Balance\nReference period: Septiembre\nData type: Revisad
@@ -18,7 +18,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3263b567a495bd14@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261109
 SUMMARY:📈 CPI: CPI 2nd fortnight + monthly
 DESCRIPTION:CPI 2nd fortnight + monthly\nReference period: Octubre\nData ty
@@ -31,7 +31,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3725b03fc81d1159@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261110
 SUMMARY:📈 Productivity: Industrial Activity (IMAI)
 DESCRIPTION:Industrial Activity (IMAI)\nReference period: Julio\nData type:
@@ -42,7 +42,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:9017e9cc2577404e@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261111
 SUMMARY:📈 Productivity: Industrial Activity (IMAI)
 DESCRIPTION:Industrial Activity (IMAI)\nReference period: Septiembre\nData 
@@ -53,7 +53,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:f315cdb238fd008c@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261117
 SUMMARY:📈 Productivity: Manufacturing Indicators (EMIM)
 DESCRIPTION:Manufacturing Indicators (EMIM)\nReference period: Septiembre\n
@@ -64,7 +64,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:1c2437e7c21d4e45@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:📈 GDPNowcasting: IGAE (monthly GDP proxy)
 DESCRIPTION:IGAE (monthly GDP proxy)\nReference period: Septiembre\nData ty
@@ -76,7 +76,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2dcb76be5cc8fa54@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261123
 SUMMARY:📈 GDPNowcasting: GDP (quarterly)
 DESCRIPTION:GDP (quarterly)\nReference period: 3.er trimestre 2026\nData ty
@@ -88,7 +88,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:26c7ac23e10e81f6@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261124
 SUMMARY:📈 CPI: CPI 1st fortnight
 DESCRIPTION:CPI 1st fortnight\nReference period: Noviembre\nData type: Defi
@@ -101,7 +101,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:940ad4fbea0f6bd0@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:📋 Quarterly Report
 DESCRIPTION:Banxico: Informe Trimestral (Quarterly Inflation Report)\nTier:
@@ -112,7 +112,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:db58f4dc25525925@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261125
 SUMMARY:📈 Employment: ENOE (quarterly)
 DESCRIPTION:ENOE (quarterly)\nReference period: 3.er trimestre 2026\nData t
@@ -125,7 +125,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:501ab6a1d979ec6c@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261126
 SUMMARY:📈 Employment: Employment (monthly)
 DESCRIPTION:Employment (monthly)\nReference period: Octubre\nData type: Def
@@ -138,7 +138,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:a43f283b22185b19@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261127
 SUMMARY:📈 CommodityPrices: Trade Balance (flash)
 DESCRIPTION:Trade Balance (flash)\nReference period: Octubre\nData type: Pr
@@ -149,7 +149,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:559ecdddd2dd76fc@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:📈 BanxicoSPF release (est.)
 DESCRIPTION:Estimated BanxicoSPF data release.\nBased on last observation: 
@@ -160,7 +160,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:21288ecd711d1c89@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261130
 SUMMARY:📈 WageDynamics release (est.)
 DESCRIPTION:Estimated WageDynamics data release.\nBased on last observation
@@ -171,7 +171,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:91c7e3110155224c@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:📈 Productivity: Manufacturing PMI (IPM)
 DESCRIPTION:Manufacturing PMI (IPM)\nReference period: Noviembre\nData type
@@ -182,7 +182,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:101db02e241b98f9@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261201
 SUMMARY:📈 ConsumerConfidence: Business Confidence (ICE)
 DESCRIPTION:Business Confidence (ICE)\nReference period: Noviembre\nData ty
@@ -193,7 +193,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:37b1247530e1ec8b@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261204
 SUMMARY:📈 GDPNowcasting: Private Consumption (IMCP)
 DESCRIPTION:Private Consumption (IMCP)\nReference period: Septiembre\nData 
@@ -204,20 +204,8 @@ CATEGORIES:data_release
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:7c8c994847766051@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
-DTSTART;VALUE=DATE:20261206
-SUMMARY:📈 NonfinancialLending release (est.)
-DESCRIPTION:Estimated NonfinancialLending data release.\nBased on last obse
- rvation: 2026-11-06 + 30d cycle.\n\nPodcast threshold: {'type': 'any_new_d
- ata'}\nPODCAST: Triggers episode if new data arrives (monthly/quarterly wr
- apper).
-CATEGORIES:data_release
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
 UID:4fd88ba39c372cb3@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261207
 SUMMARY:📈 ConsumerConfidence: Consumer Confidence (ENCO)
 DESCRIPTION:Consumer Confidence (ENCO)\nReference period: Noviembre\nData t
@@ -227,8 +215,20 @@ CATEGORIES:data_release
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
+UID:b07e183f4a0a63df@monitoringmexico.podcast
+DTSTAMP:20261107T064422Z
+DTSTART;VALUE=DATE:20261207
+SUMMARY:📈 NonfinancialLending release (est.)
+DESCRIPTION:Estimated NonfinancialLending data release.\nBased on last obse
+ rvation: 2026-11-07 + 30d cycle.\n\nPodcast threshold: {'type': 'any_new_d
+ ata'}\nPODCAST: Triggers episode if new data arrives (monthly/quarterly wr
+ apper).
+CATEGORIES:data_release
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
 UID:4ffe01ca7b4a2910@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:📈 CommodityPrices: Trade Balance
 DESCRIPTION:Trade Balance\nReference period: Octubre\nData type: Revisadas\
@@ -239,7 +239,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:01c99274455b4970@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261209
 SUMMARY:📈 CPI: CPI 2nd fortnight + monthly
 DESCRIPTION:CPI 2nd fortnight + monthly\nReference period: Noviembre\nData 
@@ -252,7 +252,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:33032552c98d6368@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:📈 Productivity: Industrial Activity (IMAI)
 DESCRIPTION:Industrial Activity (IMAI)\nReference period: Agosto\nData type
@@ -263,7 +263,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:ed2fd63337326a15@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261210
 SUMMARY:📈 Productivity: Labor Productivity (IPL-CUMO)
 DESCRIPTION:Labor Productivity (IPL-CUMO)\nReference period: 3.er trimestre
@@ -274,7 +274,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:36cac968d1afe479@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261211
 SUMMARY:📈 Productivity: Industrial Activity (IMAI)
 DESCRIPTION:Industrial Activity (IMAI)\nReference period: Octubre\nData typ
@@ -285,7 +285,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:53b59f0d7b7be306@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261215
 SUMMARY:📋 Financial Stability Report
 DESCRIPTION:Banxico: Reporte de Estabilidad Financiera\nTier: deep_dive\n\n
@@ -296,7 +296,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2aa7368c6bdb7129@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261216
 SUMMARY:📈 Productivity: Manufacturing Indicators (EMIM)
 DESCRIPTION:Manufacturing Indicators (EMIM)\nReference period: Octubre\nDat
@@ -307,7 +307,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:c6bf3e16b4b79fe2@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261223
 SUMMARY:📈 CommodityPrices: Trade Balance (flash)
 DESCRIPTION:Trade Balance (flash)\nReference period: Noviembre\nData type: 
@@ -318,7 +318,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:3d2fe55def6438ae@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261223
 SUMMARY:📈 GDPNowcasting: IGAE (monthly GDP proxy)
 DESCRIPTION:IGAE (monthly GDP proxy)\nReference period: Octubre\nData type:
@@ -330,7 +330,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:325c86ce7604046d@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261223
 SUMMARY:📈 CPI: CPI 1st fortnight
 DESCRIPTION:CPI 1st fortnight\nReference period: Diciembre\nData type: Defi
@@ -343,7 +343,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:feb9c9d992b37980@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261224
 SUMMARY:📈 Employment: Employment (monthly)
 DESCRIPTION:Employment (monthly)\nReference period: Noviembre\nData type: D
@@ -356,7 +356,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:bd6b99bcc301ecdc@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261227
 SUMMARY:📈 HousePrice release (est.)
 DESCRIPTION:Estimated HousePrice data release.\nBased on last observation: 
@@ -369,7 +369,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:19116e564701c34b@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261230
 SUMMARY:📈 BanxicoSPF release (est.)
 DESCRIPTION:Estimated BanxicoSPF data release.\nBased on last observation: 
@@ -380,7 +380,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:2f6ffd454f7ee2ea@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20261230
 SUMMARY:📈 WageDynamics release (est.)
 DESCRIPTION:Estimated WageDynamics data release.\nBased on last observation
@@ -390,12 +390,12 @@ CATEGORIES:data_release
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:37b429e456882aa0@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
-DTSTART;VALUE=DATE:20270105
+UID:6d5d184e4074de14@monitoringmexico.podcast
+DTSTAMP:20261107T064422Z
+DTSTART;VALUE=DATE:20270106
 SUMMARY:📈 NonfinancialLending release (est.)
 DESCRIPTION:Estimated NonfinancialLending data release.\nBased on last obse
- rvation: 2026-11-06 + 30d cycle.\n\nPodcast threshold: {'type': 'any_new_d
+ rvation: 2026-11-07 + 30d cycle.\n\nPodcast threshold: {'type': 'any_new_d
  ata'}\nPODCAST: Triggers episode if new data arrives (monthly/quarterly wr
  apper).
 CATEGORIES:data_release
@@ -403,7 +403,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:85df60c313f5952d@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20270129
 SUMMARY:📈 BanxicoSPF release (est.)
 DESCRIPTION:Estimated BanxicoSPF data release.\nBased on last observation: 
@@ -414,7 +414,7 @@ TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:774c28a160e4720a@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
+DTSTAMP:20261107T064422Z
 DTSTART;VALUE=DATE:20270129
 SUMMARY:📈 WageDynamics release (est.)
 DESCRIPTION:Estimated WageDynamics data release.\nBased on last observation
@@ -424,12 +424,12 @@ CATEGORIES:data_release
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:20cc258b012e1618@monitoringmexico.podcast
-DTSTAMP:20261106T064351Z
-DTSTART;VALUE=DATE:20270204
+UID:cdee53db79571b62@monitoringmexico.podcast
+DTSTAMP:20261107T064422Z
+DTSTART;VALUE=DATE:20270205
 SUMMARY:📈 NonfinancialLending release (est.)
 DESCRIPTION:Estimated NonfinancialLending data release.\nBased on last obse
- rvation: 2026-11-06 + 30d cycle.\n\nPodcast threshold: {'type': 'any_new_d
+ rvation: 2026-11-07 + 30d cycle.\n\nPodcast threshold: {'type': 'any_new_d
  ata'}\nPODCAST: Triggers episode if new data arrives (monthly/quarterly wr
  apper).
 CATEGORIES:data_release
