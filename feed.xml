@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Fri, 06 Nov 2026 07:43:49 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:48:36 +0100</lastBuildDate>
+    <item>
+      <title>November 12, 2026 - Pablo Rivas &amp; María López</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Briefing on Mexican monetary policy for November 12, 2026. Host: Pablo Rivas. Analyst: María López. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 12 news items and 4 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-11-12/MonitoringMinutes_12_11_2026.mp3</guid>
+      <pubDate>Thu, 12 Nov 2026 07:48:14 +0100</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-11-12/MonitoringMinutes_12_11_2026.mp3" length="3587386" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:29</itunes:duration>
+      <itunes:summary>Briefing on Mexican monetary policy for November 12, 2026. Host: Pablo Rivas. Analyst: María López. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 12 news items and 4 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>November 06, 2026 - Pablo Rivas &amp; Ignacio Crane</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
