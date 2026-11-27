@@ -24,7 +24,20 @@
     <itunes:category text="News">
       <itunes:category text="Business News"/>
     </itunes:category>
-    <lastBuildDate>Thu, 26 Nov 2026 08:00:16 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:57:53 +0100</lastBuildDate>
+    <item>
+      <title>November 27, 2026 - Ignacio Crane &amp; María López</title>
+      <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
+      <description>Briefing on Mexican monetary policy for November 27, 2026. Host: Ignacio Crane. Analyst: María López. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 2 news items and 4 data topics.</description>
+      <guid>https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-11-27/MonitoringMinutes_27_11_2026.mp3</guid>
+      <pubDate>Fri, 27 Nov 2026 07:57:32 +0100</pubDate>
+      <enclosure url="https://github.com/adentler1/MonitoringPodcast/releases/download/episode-2026-11-27/MonitoringMinutes_27_11_2026.mp3" length="3391781" type="audio/mpeg"/>
+      <itunes:author>Alexander Dentler</itunes:author>
+      <itunes:duration>2:21</itunes:duration>
+      <itunes:summary>Briefing on Mexican monetary policy for November 27, 2026. Host: Ignacio Crane. Analyst: María López. Topics covered: news roundup, economic data updates, and central bank calendar. Covers 2 news items and 4 data topics.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>November 26, 2026 - María López &amp; Alexander Dentler</title>
       <link>https://monitoring-monetary-policy-in-mexico.webflow.io/</link>
